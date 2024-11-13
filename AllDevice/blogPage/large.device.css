@@ -15,10 +15,23 @@
 }
 
 @media (max-width: 1199.98px) {
-    .footerLeft {
-        width: 120%;
-    }
-    /* ==================Start working from here==================== */
+  .footerLeft {
+    width: 120%;
+  }
 
-    
+  /* ==================Start working from here==================== */
+
+  .CastudyTop__title {
+    font-size: 44px;
+
+  }
+  .CastudyBottom__details {
+    padding: 0px 0px;
+    font-size: 14px;
+
+  }
+
+  #OurBlog {
+    padding: 70px 0;
+  }
 }

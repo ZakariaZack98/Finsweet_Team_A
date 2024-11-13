@@ -15,5 +15,48 @@
 }
 
 @media (max-width: 575.98px) {
-    
+  .col-8 {
+    flex: 0 0 auto;
+    width: 77.667%;
+  }
+  .CastudyTop__title {
+    font-size: 17px;
+    line-height: 18px;
+  }
+  .CastudyTop__author {
+    font-family: var(--fnt_primary);
+    color: var(--clr_dark_blue);
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-top: -4px;
+    margin-bottom: 18px;
+  }
+  
+  .CastudyBottom__details {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .link__readmore {
+    font-size: 12px;
+    line-height: 0px;
+  }
+  .OurBlog__title {
+    font-size: 18px;
+    line-height: 0;
+    margin-bottom: 25px;
+  }
+  .carditemsone__title {
+    font-size: 16px;
+    line-height: 28px;
+  }
+  .carditemsone__details {
+    font-size: 14px;
+    line-height: 22px;
+    text-align-last: center;
+  }
+  .card__link {
+    font-size: 13px;
+    line-height: 5px;
+  }
 }
