@@ -23,6 +23,25 @@
         height: fit-content;
     }
     /* ==================Start working from here==================== */
+    .pricing--btn {
+        padding: 14px 70px;
+       align-items: center;
+       margin-top: 152px;
+       margin-left: -10px;
+    }
+   
+    .pricingBottom {
+        padding-top: 50px;
+        padding-left: 32px;
+    }
+    .pricingBottom__summary {
+        font-size: 12px;
+    }
+    .customText__summary {
+        margin-top: 12px;
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
 
 
 
