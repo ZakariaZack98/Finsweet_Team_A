@@ -15,5 +15,37 @@
 }
 
 @media (max-width: 575.98px) {
+  .ReadBlogTitle-Title {
+    font-size: 9px;
+    margin: 20px 0 5px;
+  }
+  .ReadBlogTitle-summary {
+    font-size: 6px;
+    margin-bottom: 15px;
+  }
+  .ReadBlogSummary-title {
+    font-size: 8px;
+    margin: 10px 0 8px;
+  }
+  .ReadBlogSummary-summary {
+    font-weight: 400;
+    font-size: 7px;
+    color: var(--clr_text_faded);
+    opacity: .7;
+  }
+  #ReadBlogSummary{
+    margin-bottom: 28px;
+  }
+  .ReadBlogSummary-summary {
+    font-weight: 400;
+    font-size: 5px;
+    color: var(--clr_text_faded);
+    opacity: .7;
+  }
+  .listcircle {
+    color: var(--clr_text_faded);
+    font-size: 3px;
+    margin-right: 5px;
+  }
     
 }

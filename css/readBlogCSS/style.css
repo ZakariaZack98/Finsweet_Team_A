@@ -100,6 +100,53 @@ img {
 }
 
 /* =======================================YOUR WORK STARTS FROM HERE========================================= */
+/* =======================================Read Blog Title start========================================= */
+.ReadBlogTitle-Title{
+  font-weight: 600;
+  font-size: 48px;
+  color: var(--clr_text_faded);
+  margin: 128px 0 16px;
+}
+.ReadBlogTitle-summary{
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--clr_text_faded);
+  margin-bottom: 48px;
+}
+.ReadBlogTitle-summary-date{
+  opacity: .7;
+}
+/* =======================================Read Blog Title End========================================= */
+/* =======================================Read Blog Summary Start========================================= */
+#ReadBlogSummary{
+  margin-bottom: 128px;
+}
+.ReadBlogSummary-title{
+  font-weight: 600;
+  font-size: 38px;
+  color: var(--clr_text_faded);
+  margin: 48px 0 32px;
+}
+.ReadBlogSummary-summary{
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--clr_text_faded);
+  opacity: .7;
+ 
+}
+.listcircle{
+  color:var(--clr_text_faded);
+  font-size: 15px;
+  margin-right: 5px;
+}
+ol, ul {
+  padding-left: 0rem;
+}
+.ReadBlogSummary-summary-midifier{
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+/* =======================================Read Blog Summary End========================================= */
 
 /* =================================!!! DONT MODIFY THE #FOOTER SECTION!!!========================================= */
 /* ============footer section============== */

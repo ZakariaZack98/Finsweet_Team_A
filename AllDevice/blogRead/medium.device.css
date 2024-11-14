@@ -23,6 +23,23 @@
         height: fit-content;
     }
     /* ==================Start working from here==================== */
+    .footerLeft {
+        width: 100%;
+    }
+    .footerRight {
+        margin-top: 150px;
+        height: fit-content;
+    }
+    /* ==================Start working from here==================== */
+    .ReadBlogTitle-Title {
+        margin: 65px 0 16px;
+    }
+    .ReadBlogTitle-summary {
+        font-size: 13px;
+    }
+    .ReadBlogSummary-title {
+        font-size: 24px;
+    }
 
 
 

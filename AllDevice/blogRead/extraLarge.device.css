@@ -15,5 +15,11 @@
 }
 
 @media (max-width: 1399.98px) {
+  .ReadBlogTitle-Title {
+    font-size: 36px;
+  }
+  .ReadBlogSummary-title {
+    font-size: 34px;
+  }
 
 }
