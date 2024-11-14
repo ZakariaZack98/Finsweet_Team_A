@@ -213,18 +213,30 @@ img {
 
 /* =================================Support Part css========================================= */
 #support{
-  padding: 128px;
+  padding: 128px 0;
 }
-.supportPart{
-  margin-top: 60px;
+.supportPart__title{
+  font-size: 38px;
+  font-weight: 600;
+  font-family: var(--fnt_primary);
+  line-height: 56px;
+}
+.supportPart__summary{
+  font-size: 16px;
+  font-weight: 400;
+  font-family: var(--fnt_primary);
+  margin-top: 12px;
+  line-height: 28px;
 }
 /* =================================Support Part css========================================= */
 
 /* =================================quick delivery css========================================= */
-#quickDelivery{
-  padding: 128px;
+#Delivery{
+padding: 128px 0;
   background-color: rgb(244, 242, 234);
 }
+  
+
 /* =================================quick delivery css========================================= */
 
 /*------------------- Frequently Part css ------------------- */
