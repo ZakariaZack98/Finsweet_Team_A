@@ -100,7 +100,97 @@ img {
 }
 
 /* =======================================YOUR WORK STARTS FROM HERE========================================= */
+/* =======================================Case study part========================================= */
+#casestudy{
+  padding: 128px 0px 0px 0px ;
+}
+.CastudyTop__title{
+  font-family: var(--fnt_primary);
+  color: var(--clr_dark_blue);
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 64px;
 
+}
+.CastudyTop__author{
+  font-family: var(--fnt_primary);
+  color: var(--clr_dark_blue);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  margin-top: 16px;
+  margin-bottom: 32px;
+}
+.CastudyBottom__details{
+  font-family: var(--fnt_primary);
+  color: var(--clr_dark_blue);
+  padding: 0 20px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: .7;
+  margin-top: 48px;
+  margin-bottom: 16px;
+}
+.link__readmore{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+/* =======================================Case study part========================================= */
+/* =======================================Our Blog part========================================= */
+#OurBlog{
+  padding: 128px 0;
+}
+.OurBlog__title{
+  text-align: center;
+  font-family: var(--fnt_primary);
+  color: var(--clr_dark_blue);
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 64px;
+  margin-bottom: 48px;
+}
+.carditemsone{
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  border-radius: 7px;
+  overflow: hidden;
+  cursor: pointer;
+  margin-bottom: 64px;
+}
+
+.carditemsone__date{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: rgba(0, 0, 0, 0.532);
+  margin-top: 24px;
+}
+.carditemsone__title{
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  color: black;
+}
+.carditemsone__details{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: var(--clr_dark_blue);
+  opacity: .7;
+  padding-right: 10px;
+  padding-bottom: 8px;
+}
+.card__link{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: rgb(0, 0, 0);
+}
+/* =======================================Our Blog part========================================= */
 /* =================================!!! DONT MODIFY THE #FOOTER SECTION!!!========================================= */
 /* ============footer section============== */
 #footer {
