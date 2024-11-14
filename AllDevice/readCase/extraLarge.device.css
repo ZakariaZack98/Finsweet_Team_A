@@ -16,4 +16,53 @@
 
 @media (max-width: 1399.98px) {
 
+
+ /* title part change */
+
+
+.Webdev__MainTitile {
+    
+    font-size: 44px;	
+  }
+  
+  
+  
+ /* social medialink */
+  
+.WDD__socialLinks {
+    font-size: 20px;
+  
+  }
+  
+  
+  /* about the project */
+  
+  
+  
+  
+  
+.AboutTheProject__pg {
+    width: 809.9px;
+    
+    line-height: 28px;
+  }
+  
+.Aboutimagepadding {
+    margin-left: 190px;
+    
+  }
+  
+  
+  
+ /* service link */
+  
+.Servicepart__upanddownBoder {
+    
+    column-gap: 45px;
+    
+  }
+  
+
+
+
 }

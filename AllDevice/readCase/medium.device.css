@@ -25,5 +25,68 @@
     /* ==================Start working from here==================== */
 
 
+    
 
+.Webdev__Paragraph {
+        width: 722px;
+    }
+    
+.Webdev__MiniTitle {
+    
+        text-align: center;
+          padding-left: 0;
+    }
+    
+    
+.Webdev__MainTitile {
+        
+    padding-left: 64px;
+    }
+    
+    
+.Webdev__Paragraph {
+        
+        text-align: center;
+    }
+    
+    
+    /* About us : */
+    
+    
+.AboutTheProject__title {
+        
+        text-align: center;
+    }
+    
+    
+.AboutTheProject__pg {
+    
+        width: 698.9px;
+        
+    }
+    
+.AboutTheProject__list {
+        
+        padding-left: 2px;
+        padding-top: 20px;
+    }
+    
+.Aboutimagepadding {
+        margin-left: -2px;
+    }
+    
+    
+    
+    
+    /*  service  link */ 
+    
+.Servicepart__upanddownBoder {
+        
+        flex-direction: row;
+        column-gap: 34px;
+        flex-wrap: wrap;
+    }
+    
+    
+    
 }

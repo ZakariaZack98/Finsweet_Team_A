@@ -12,6 +12,8 @@
   --border-red: 1px solid red;
   --trn_delay: ease-in 0.3s;
   --box_shd: 0 0 20px 20px rgba(0, 0, 0, 0.24);
+  --lite_pg_font_clr: rgba(40, 41, 56, 0.541);
+  
 }
 /* ==============common=========== */
 * {
@@ -100,6 +102,266 @@ img {
 }
 
 /* =======================================YOUR WORK STARTS FROM HERE========================================= */
+
+/* ⫘⫘⫘⫘⫘⫘ Web Design And Development ⫘⫘⫘⫘⫘⫘ */
+
+#WebDesignAndDevelopment{
+  padding-top:128px;
+}
+
+
+
+.Webdev__MiniTitle{
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 38px;
+
+  color: var(--clr_text_faded);
+}
+
+.Webdev__MainTitile{
+  width:646px ;
+  height: 128px;
+
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 64px;
+
+  padding-bottom: 16px;
+  color: var(--clr_text_faded);
+}
+
+.Webdev__Paragraph{
+  width: 817px;
+
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+
+  color: var(--lite_pg_font_clr);
+}
+
+.Webdev__coverPic{
+  padding-left: 0;
+  padding-top: 48px;
+}
+
+/* soical links */ 
+
+.WDD__sociallinkHoalder{
+
+ 
+  padding-top: 48px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+
+}
+
+/*         /)  /)  ~ ┏━━━━━━━━━━━━━━━━━┓
+          ( •-• )  ~ ♡ Under Line     ♡
+          /   づづ ~ ┗━━━━━━━━━━━━━━━━━┛ 
+          
+ */
+
+.WDD__sociallinkHoalder::before{
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 1px;
+  background:var(--lite_pg_font_clr);
+  top: 120%;
+  bottom: 0%;
+
+
+}
+
+.WDD__SocialTitle{
+
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px ;
+
+  color: var(--clr_text_faded);
+
+}
+
+.WDD__socialLinks {
+  font-size: 23px;
+  font-weight: 500;
+  color: var(--clr_dark_blue);
+  transition: all linear 0.2s;
+}
+
+.WDD__socialLinks:hover{
+  color: var(--clr_royal_blue);
+}
+
+
+
+
+/*   ▂▃▄▅▆▇█▓▒░ About the project ░▒▓█▇▆▅▄▃▂  
+*/
+
+
+#AboutTheProject{
+  padding-top: 96px;
+}
+
+
+.AboutTheProject__title{
+  
+
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+
+  color: var(--clr_text_faded);
+
+}
+
+.AboutTheProject__pg{
+  width: 837.9px;
+  font-size: 16px ;
+  font-weight: 400;
+  line-height: 28px;
+  color: var(--lite_pg_font_clr);
+}
+
+.AboutTheProject__list{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: var(--lite_pg_font_clr);
+
+}
+.listmargin{
+  padding-bottom: 16px;
+}
+[class="fa-sharp fa-solid fa-circle fa-beat"]{
+  font-size: 10px;
+  color: var(--clr_text_faded);
+  padding-right: 10px;
+}
+
+
+
+.Aboutimagepadding{
+
+  margin-left: 219px ;
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+
+
+/* xxxxxxxxxxxxxxxxx About The Project XXXXXXXXXXXXXXXXXX */
+
+
+
+
+.Servicepart__upanddownBoder{
+  display: flex;
+  flex-direction: row;
+  column-gap:53px ;
+  padding: 96px 0px;
+
+  position: relative;
+
+}
+.Servicepart__upanddownBoder::after{
+  position: absolute;
+
+  content: "";
+  width: 86%;
+  height: 1%;
+  left: 0;
+  bottom:24% ;
+  background:var(--lite_pg_font_clr);
+
+}
+
+.Servicepart__upanddownBoder::before{
+  position: absolute;
+
+  content: "";
+  width: 86%;
+  height: 1%;
+  left: 0;
+  bottom:76% ;
+  background: var(--lite_pg_font_clr);
+
+}
+
+
+
+.services_Link{
+
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+
+  color: var(--lite_pg_font_clr);
+  transition: all linear 0.4s;
+
+}
+
+.services_Link:hover{
+  font-size: 24px;
+  line-height: 36px;
+  color: var(--clr_royal_blue);
+
+}
+
+/* ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ ) Let's build something great together ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )
+*/
+
+#BuildSomthingGreat{
+  padding: 128px 0px;
+}
+.BuildSomthingGreat__flex{
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.BuildSomthingGreat__title{
+
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 64px;
+  color: var(--clr_text_faded);
+  text-align: center;
+}
+
+.BuildSomthingGreat__Pg{
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  color: var(--lite_pg_font_clr);
+  text-align: center;
+}
+
+.BuildSomthingGreat__Button{
+  padding-top: 20px;
+  
+  align-items: center;
+
+  border-radius: 41px;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  padding: 1rem 5rem;
+  transition: var(--trn_delay);
+}
+.BuildSomthingGreat__Button:hover{
+  background-color: var(--clr_yellow) !important;
+  color: var(--clr_tint_blue) !important;
+}
+
+
+
+
+
 
 /* =================================!!! DONT MODIFY THE #FOOTER SECTION!!!========================================= */
 /* ============footer section============== */

@@ -15,5 +15,123 @@
 }
 
 @media (max-width: 575.98px) {
+
+
+
+/* web design and development */
+
+.Webdev__MiniTitle {
+	font-size: 16px;
+	
+}
+
+
+.Webdev__MainTitile {
+	padding-left: 20px;
+	font-size: 24px;
+}
+
+.Webdev__Paragraph {
+	width: 100%;
+       font-size: 14px;
+       padding: 0px 5px 0px 5px;
+}
+
+
+/* picture modify */
+
+.Webdev__coverPic {
+	padding-left: 1px;
+	padding-top: 24px;
+}
+
+
+
+/* social link */
+
+
+
+.WDD__sociallinkHoalder {
+	display: flex;
+	flex-direction: none;
+        justify-content:none;
+	position: relative;
+	padding: 60px 0px 24px 0px;
+	text-align: center;
+	flex-direction: column;
+	row-gap: 35px;
+}
+
+/* about the project */
+
+.AboutTheProject__title {
+	font-size: 24px;
+	
+}
+
+.AboutTheProject__pg {
+	width: 100%;
+}
+
+.Aboutimagepadding {
+	margin-left: 219px;
+	padding-top: 24px;
+	padding-bottom: 24px;
+}
+
+.Aboutimagepadding {
+	margin-left: 0px;
+	padding-top: 24px;
+	padding-bottom: 24px;
+}
+
+/* service link */
+
+
+
+.Servicepart__upanddownBoder {
+	display: flex;
+	flex-direction: column;
+	column-gap: none;
+	padding: 11px 0px;
+	position: relative;
+	row-gap: 19px;
+	text-align: center;
+}
+
+.services_Link {
+	font-size: 20px;
+}
+
+.services_Link:hover{
+  font-size: 21px;
+ 
+
+}
+
+
+.Servicepart__upanddownBoder::before {
+	
+	height: 0%;
+	
+}
+.Servicepart__upanddownBoder::after {
+	
+	height: 0%;
+	
+}
+
+/* Lests build somthing */
+
+.BuildSomthingGreat__title {
+	font-size: 24px;
+      line-height: 36px;
+}
+
+
+
+
+
+  
     
 }
