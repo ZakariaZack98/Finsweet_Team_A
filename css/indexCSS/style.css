@@ -165,6 +165,7 @@ img {
   font-weight: 600;
   line-height: 64px;
   color: var(--font_color);
+  text-align: start;
 }
 .customworkLeft__summary{
   font-size: 16px;
@@ -173,6 +174,7 @@ img {
   width: 405px;
   color: var(--font_color);
   margin-top: 16px;
+  text-align: start;
 }
 .get--btn{
   color: #2405F2;
