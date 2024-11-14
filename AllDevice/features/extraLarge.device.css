@@ -15,5 +15,17 @@
 }
 
 @media (max-width: 1399.98px) {
-
+  .--cardrow {
+    column-gap: 8px;
+}
+  .getFreeSection {
+    margin-top: 13px;
+}
+.supportPart {
+  margin-top: 16px;
+}
+.getFree__title {
+  font-size: 25px;
+  line-height: 44px;
+}
 }

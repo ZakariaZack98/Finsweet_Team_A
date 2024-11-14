@@ -23,6 +23,16 @@
         height: fit-content;
     }
     /* ==================Start working from here==================== */
+    .btn--modifire {
+        margin-top: 11px;
+        margin-bottom: 41px;
+    }
+    .images{
+        width: 100px;
+    }
+    .getFreeSection {
+        margin-top: 32px;
+    }
 
 
 

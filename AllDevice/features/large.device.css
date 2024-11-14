@@ -18,7 +18,53 @@
     .footerLeft {
         width: 120%;
     }
-    /* ==================Start working from here==================== */
+/* ==================Start working from here==================== */
+    .bannerPart__title {
+      font-size: 33px;
+  }
+  .bannerPart__summary {
+    margin-top: 0px;
+    line-height: 25px;
+}
+.btn--modifire {
+  margin-top: 11px;
+}
+.card__title {
+  font-size: 45px;
+  line-height: 59px;
+}
+.cardDegin__title {
+  font-size: 21px;
+}
+.cardDegin__summary {
+  line-height: 24px;
+}
+.clientPart__title {
+  font-size: 22px;
+  line-height: 35px;
+}
+.clientPart__summary {
+  line-height: 26px;
+}
+.getFree__title {
+  font-size: 19px;
+  line-height: 35px;
+}
+.supportPart {
+  margin-top: 0px;
+}
+.getFreeSection {
+  margin-top: 0px;
+}
+.getFree__title {
+  font-size: 20px;
+  line-height: 28px;
+}
+.getFree__summary {
+  margin-top: 0px;
+  line-height: 22px;
+}
+
 
     
 }
