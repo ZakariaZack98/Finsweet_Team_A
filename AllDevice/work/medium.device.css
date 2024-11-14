@@ -23,7 +23,17 @@
         height: fit-content;
     }
     /* ==================Start working from here==================== */
-
-
+    .WorkPortfolio__summary {
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .Worktempletetop__items {
+        font-size: 13px;
+    }
+    .carditemsone {
+        row-gap: 0px;
+        text-align: center;
+        align-items: center;
+    }
 
 }

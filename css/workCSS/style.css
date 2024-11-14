@@ -230,6 +230,7 @@ img {
   flex-direction: column;
   row-gap: 20px;
   align-items: center;
+  text-align: center;
 }
 .Workbuild__title{
   font-size: 48px;
@@ -242,7 +243,7 @@ img {
   border-radius: 41px;
   border: 2px solid rgba(255, 255, 255, 0.2);
   padding: 1rem 3rem;
-  transition: var(--trn_delay);
+  transition: ease-in-out .1s;
   background-color: var(--clr_tint_blue) !important;
   margin-top: 20px;
 }

@@ -13,6 +13,79 @@
   --trn_delay: ease-in 0.3s;
   --box_shd: 0 0 20px 20px rgba(0, 0, 0, 0.24);
 }
+
 @media (max-width: 767.98px) {
-    
+  #WorkPortfolio {
+    padding: 24px 0px;
+  }
+  .WorkPortfolio__tag {
+    font-size: 10px;
+    line-height: 16px;
+  }
+
+  .WorkPortfolio__title {
+    font-size: 28px;
+    line-height: 30px;
+  }
+
+  .WorkPortfolio__summary {
+    font-size: 10px;
+    line-height: 16px;
+  }
+
+  .WorkPortfolio__icon {
+    width: 26.667%;
+  }
+
+  .Worktempletetop__items {
+    font-size: 10px;
+  }
+
+  .Worktempletetop__items {
+    column-gap: 9px;
+  }
+
+  .carditemsone {
+    margin-bottom: -31px;
+  }
+
+  .carditemsone__title {
+    font-size: 25px;
+    margin-top: 4px;
+    margin-bottom: -5px;
+  }
+
+  .carditemsone__details {
+    font-size: 10px;
+    line-height: 17px;
+    margin-bottom: 3px;
+  }
+
+  .card__link {
+    font-size: 10px;
+    line-height: 15px;
+  }
+
+  #Workbuild {
+    padding: 20px 0px;
+  }
+
+  .Workbuild__title {
+    font-size: 25px;
+    line-height: 31px;
+  }
+
+  .Workbuild__summary {
+    font-size: 10px;
+    line-height: 17px;
+  }
+
+  .customBtn {
+    padding: 6px 2rem;
+    margin-top: -20px;
+  }
+  .customBtn__link{
+    font-size: 11px; ;
+  }
+
 }
