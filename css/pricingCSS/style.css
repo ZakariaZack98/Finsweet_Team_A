@@ -199,14 +199,13 @@ font-size: 16px;
 }
 
 .circle{
-  width: 650px;
-  height: 650px;
+  width: 700px;
+  height: 700px;
   background: #0b033e;
   opacity: 70%;
-
   position: absolute;
   left: 50%;
-  top: -56%;
+  top: -64%;
   transform: translate(-50%,50%);
   border-radius: 50%;
   text-align: center;
