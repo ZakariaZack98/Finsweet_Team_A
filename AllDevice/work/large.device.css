@@ -19,6 +19,29 @@
         width: 120%;
     }
     /* ==================Start working from here==================== */
+    #WorkPortfolio {
+      padding: 50px 0px;
+      margin-bottom: 43px;
+    }
+    .WorkPortfolio__title {
+      font-size: 38px;
+      line-height: 41px;
+    }
+    .WorkPortfolio__summary {
+      margin: 0px 0px 7px 0px;
+    }
+    .carditemsone {
+      row-gap: 0px;
+      text-align: start;
+      align-items: start;
+    }
+    .CustomCard {
+      margin-bottom: 54px;
+    }
+    .Workbuild__title {
+      font-size: 38px;
+      line-height: 41px;
+    }
 
-    
+
 }
