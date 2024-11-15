@@ -14,5 +14,36 @@
   --box_shd: 0 0 20px 20px rgba(0, 0, 0, 0.24);
 }
 @media (max-width: 767.98px) {
+
+
+
+
+/* web design */
+
+
+
+.Webdev__MainTitile {
+	padding-left: 23px;
+        font-size: 33px;
+}
+
+.Webdev__Paragraph {
+	width: 535px;
+}
+
+
+/*   about the project */
+
+.AboutTheProject__pg {
+	width: 519.9px;
+}
+
+.services_Link {
+	font-size: 17px;
+}
+
+
+
+
     
 }
