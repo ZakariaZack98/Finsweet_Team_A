@@ -132,7 +132,7 @@ img {
   font-size: 16px;
   color: var(--clr_text_faded);
   opacity: .7;
- 
+  text-align: justify;
 }
 .listcircle{
   color:var(--clr_text_faded);
