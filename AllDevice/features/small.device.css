@@ -14,5 +14,11 @@
   --box_shd: 0 0 20px 20px rgba(0, 0, 0, 0.24);
 }
 @media (max-width: 767.98px) {
-    
+  .btn--modifire {
+    margin-left: 0px;
+  }
+  .images{
+    width: 100%;
+    row-gap: 20px;
+  } 
 }

@@ -15,5 +15,31 @@
 }
 
 @media (max-width: 575.98px) {
-    
+  .bannerPart__title {
+    font-size: 24px;
+  }
+  .btn--modifire {
+    margin-left: 0px;
+  }
+ 
+  .card__title {
+    font-size: 27px;
+    line-height: 40px;
+  }
+  .card__design {
+    margin-top: 25px;
+    text-align: center;
+  }
+  .clientPart__title {
+    font-size: 19px;
+    line-height: 31px;
+  }
+  .supportPart__title {
+    font-size: 22px;
+    line-height: 39px;
+  }
+  .frequently__title {
+    font-size: 33px;
+    line-height: 48px;
+  }
 }

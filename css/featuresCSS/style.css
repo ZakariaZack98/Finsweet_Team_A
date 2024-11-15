@@ -100,7 +100,184 @@ img {
 }
 
 /* =======================================YOUR WORK STARTS FROM HERE========================================= */
+/* =======================================Banner Part CSS========================================= */
+#bannerPart{
+  background-color:var(--clr_tint_blue);
+  padding: 148px 0;
+}
+.bannerPart__title{
+  font-size: 54px;
+  font-family: var(--fnt_primary);
+  font-weight: 600;
+  line-height: 74px;
+  color: #FFFFFF;
+  
+}
+.bannerPart__summary{
+  font-size: 16px;
+  font-family: var(--fnt_primary);
+  font-weight: 500;
+  line-height: 28px;
+  color: #FFFFFF;
+  margin-top: 32px;
+}
+.btn--modifire{
+  margin-left: 0;
+  margin-top: 32px;
+}
+/* =================================Banner Part CSS End========================================= */
 
+/* =================================100.000+ section css========================================= */
+#handedPlus{
+  padding: 96px 0;
+  background-color: #ffff;
+}
+
+/* =================================100.000+ section CSS End========================================= */
+
+/* =================================Card Part Start========================================= */
+#cardPart{
+  padding: 96px 0;
+}
+.card__title{
+  font-size: 48px;
+  font-weight: 600;
+  font-family: var(--fnt_primary);
+  line-height: 64px;
+  text-align: center;
+  margin-bottom: 48px;
+}
+.card__design{
+  padding: 50px 48px;
+  background-color: var(--clr_accent);
+  border-radius: 10px;
+}
+.cardDegin__title{
+  font-size: 24px;
+  font-weight: 500;
+  font-family: var(--fnt_primary);
+  margin-top: 26px;
+}
+.cardDegin__summary{
+  font-size: 16px;
+  font-weight: 400;
+  font-family: var(--fnt_primary);
+  margin-top: 12px;
+  line-height: 28px;
+}
+/* =================================Card Part End========================================= */
+
+/* =================================Client Part Start========================================= */
+#clientPart{
+  padding: 128px 0;
+}
+.clientPartUse{
+  margin-top: 41px;
+}
+.clientPart__title{
+  font-size: 38px;
+  font-weight: 600;
+  font-family: var(--fnt_primary);
+  line-height: 54px;
+}
+.clientPart__summary{
+  font-size: 16px;
+  font-weight: 400;
+  font-family: var(--fnt_primary);
+  margin-top: 12px;
+  line-height: 28px;
+}
+/* =================================Card Part End========================================= */
+/* =================================Getfree Part Start========================================= */
+#Getfree{
+  padding: 128px 0;
+  background-color: var(--clr_accent);
+}
+.getFreeSection{
+  margin-top: 90px;
+}
+.getFree__title{
+  font-size: 38px;
+  font-weight: 600;
+  font-family: var(--fnt_primary);
+  line-height: 56px;
+}
+.getFree__summary{
+  font-size: 16px;
+  font-weight: 400;
+  font-family: var(--fnt_primary);
+  margin-top: 12px;
+  line-height: 28px;
+}
+/* =================================Getfree Part End========================================= */
+
+/* =================================Support Part css========================================= */
+#support{
+  padding: 128px 0;
+}
+.supportPart__title{
+  font-size: 38px;
+  font-weight: 600;
+  font-family: var(--fnt_primary);
+  line-height: 56px;
+}
+.supportPart__summary{
+  font-size: 16px;
+  font-weight: 400;
+  font-family: var(--fnt_primary);
+  margin-top: 12px;
+  line-height: 28px;
+}
+/* =================================Support Part css========================================= */
+
+/* =================================quick delivery css========================================= */
+#Delivery{
+padding: 128px 0;
+  background-color: rgb(244, 242, 234);
+}
+  
+
+/* =================================quick delivery css========================================= */
+
+/*------------------- Frequently Part css ------------------- */
+#frequentlyPart{
+  padding: 128px 0;
+  background-color: #FBFCFD;
+}
+.frequently__title{
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+  margin-top: 40px;
+}
+.accordion-button::after {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-plus-lg' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8 2a.5.5 0 0 1 .5.5v5h5a.5.5 0 0 1 0 1h-5v5a.5.5 0 0 1-1 0v-5h-5a.5.5 0 0 1 0-1h5v-5A.5.5 0 0 1 8 2'/%3E%3C/svg%3E");
+}
+.accordion-button:not(.collapsed)::after {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-x' viewBox='0 0 16 16'%3E%3Cpath d='M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708'/%3E%3C/svg%3E");
+}
+.frequently__btn{
+  font-size: 18px;
+  font-weight: 500;
+  color: #2405F2;
+  opacity: 0.9;
+}
+.faq__number{
+  font-size: 20px;
+  font-family: 500;
+  color: #2405F2;
+}
+.acoding__title{
+  font-size: 20px;
+  font-family: 500;
+}
+.acoding__summary{
+  font-size: 18px;
+  font-family: 500;
+  opacity: 0.8;
+  line-height: 32px;
+}
+/*------------------- Frequently Part css ------------------- *
 /* =================================!!! DONT MODIFY THE #FOOTER SECTION!!!========================================= */
 /* ============footer section============== */
 #footer {
