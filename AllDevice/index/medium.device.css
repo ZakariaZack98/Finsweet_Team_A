@@ -23,7 +23,114 @@
         height: fit-content;
     }
     /* ==================Start working from here==================== */
+    .custombannerLeft__title {
+        font-size: 50px;
+        line-height: 67px;
+        text-align: center;
+    }
+    .custombannerLeft__summary {
+        font-size: 12px;
+        line-height: 26px;
+        text-align: center;
+    }
+    .img-fluid {
+        max-width: 90%;
+    }
+    .bannerBtn{
+        margin-left: 170px;
+        padding: 10px 56px;
+    }
+    .customworkLeft__title {
+        text-align: center;
+        font-size: 36px;
+    }
+    .customworkLeft__summary {
+    font-size: 20px;
+    margin-left: 20%;
+    }
+    .ViewPricing{
+        text-align: center;
+    }
+    .custom--project{
+        text-align: start;
+        margin-bottom: 50px;
+    }
+    .customRightOverlay__title {
+        font-size: 25px;
 
+    }
+  .customRightOverlay__title{
+    margin-top: 150px;
+    margin-bottom: 50px;
+  }
+  .customoverlayItem__summary {
+	
+	margin-bottom:0px;
+    font-size: 16px;
+}
+
+
+    .pointer{
+        margin-top: 20px;
+        text-align: center;
+    }
+    .customOverlayRight:hover .customRightOverlay {
+        width: 90%;
+    }
+    
+    .customOverlayRight {
+        margin-top: 30px;
+    }
+    .customServiceItem {
+        text-align: center;
+    }
+    .customText{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .customText__title {
+        font-size: 21px;
+        line-height: 10px;
+     
+    }
+    .customContactRight__summary {
+        font-size: 19px;
+        line-height: 32px;
+    }
+    .inputBtn {
+        padding: 10px 120px 15px 10px;
+        padding-left: 50px;
+    }
+    .loginBtn ::placeholder {
+        font-size: 14px;
+    }
+    .sendBtn {
+        padding: 13px 137px;
+        margin-top: 12px;
+    }
+    .customCard__tagline {
+        font-size: 15px;
+        line-height: 15px;
+    }
+
+    .customLeft__title {
+        font-size: 22px;
+        line-height: 33px;
+        margin-top: 10px;
+    }
+    .customClientsItems{
+        margin-left: 20px;
+    }
+    .customText__summary {
+        margin-bottom: 20px;
+    }
+    .number__title {
+        font-size: 19px;
+    }
+    .accordion-body {
+        font-size: 16px;
+    }
 
 
 }

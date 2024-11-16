@@ -15,5 +15,48 @@
 }
 
 @media (max-width: 575.98px) {
-    
+.pricingTop__title {
+    font-size: 30px;
+}
+.pricingTop__summary {
+    font-size: 10px;
+    line-height: 20px;
+}
+.pricingBottom {
+	width: 328px;
+}
+.pricingicontext {
+    font-size: 11px;
+    line-height: 20px;
+}
+.pricingBottom__title {
+    font-size: 18px;
+}
+.pricingBottom__text {
+    font-size: 17px;
+    margin-top: 8px;
+}
+.pricingBottom__summary {
+    font-size: 8px;
+    line-height: 16px;
+}
+.pricing--btn {
+	margin-top: 163px;
+  margin-left: -20px;
+  font-size: 11px;
+  }
+.circle {
+    height: 620px;
+}
+.customText {
+    text-align: center;
+}
+.customheading {
+    font-size: 10px;
+}
+.customSummary {
+	font-size: 7px;
+	line-height: 15px;
+  margin-left: 16px !important;
+}
 }

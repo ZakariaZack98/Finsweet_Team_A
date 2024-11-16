@@ -15,5 +15,33 @@
 }
 
 @media (max-width: 1399.98px) {
+  .pricingBottom {
+    width: 339px;
+   
+}
+.pricingBottom__summary {
+    font-size: 14px;
+    line-height: 26px;
+}
+
+.pricingicontext {
+    font-size: 14px;
+    line-height: 20px;
+}
+.pricing--btn {
+	margin-top: 118px;
+	margin-left: -10px;
+}
+.customheading {
+    font-size: 22px;
+}
+.customSummary {
+    font-size: 15px;
+    line-height: 29px;
+}
+.customText__title {
+    font-size: 21px;
+    line-height: 21px;
+}
 
 }
