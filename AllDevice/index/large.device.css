@@ -19,6 +19,131 @@
         width: 120%;
     }
     /* ==================Start working from here==================== */
+    .bannerBtn {
+      padding: 13px 56px;
+      font-size: 12px;
+    }
+    .custombannerLeft__title {
+      font-size: 49px;
+    }
+    .pointer__tagline {
+      font-size: 25px;
+    }
+    .pointer__summary {
+      font-size: 12px;
+      line-height: 24px;
+    }
+    .customworkLeft__title {
+      font-size: 38px;
+    }
+  .custombannerLeft__summary {
+      font-size: 14px;
+      line-height: 26px;
+  }
+  .project__title {
+    font-size: 38px;
+  }
+  .customText__title {
+    font-size: 32px;
+    line-height: 46px;
+  }
+  .customoverlayItem {
+    padding-top: 130px;
+  }
+  .customoverlayItem__title {
+      font-size: 20px;
+      line-height: 32px;
+  }
+  .customoverlayItem__summary {
+      font-size: 11px;
+      line-height: 20px;
+  }
+  .pointer__summary {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .customRightOverlay {
+    padding-top: 120px;
+  }
+  .customRightOverlay__title {
+      font-size: 15px;
+      height: 26px;
+  }
+  .CustomServiceTop__tagline {
+      font-size: 39px;
+      line-height: 51px;
+  }
+  .customServiceItem__title {
+      font-size: 14px;
+  }
+  .customServiceItem__summary {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .customLeft__title {
+    font-size: 20px;
+    line-height: 38px;
+  }
+  .customText__title {
+    font-size: 32px;
+    line-height: 39px;
+  }
+  .customText__summary {
+    line-height: 30px;
+  }
+  .customSummary {
+    font-size: 15px;
+    line-height: 30px;
+  }
+  .customClientsbottom {
+    column-gap: 15px;
+  }
+  .customClientsItems__tagline {
+    line-height: 11px;
+  }
+  .customheading {
+    font-size: 20px;
+  }
+  .customOverlay__title {
+    font-size: 36px;
+    line-height: 50px;
+  }
+  .customOverlay__summary {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .customContactRight__summary {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .loginBtn ::placeholder {
+    font-size: 10px;
+  }
+  .inputBtn {
+    padding: 0px 0px 15px 0px;
+    padding-left: 10px;
+  
+  }
+  .customCard__tagline {
+    font-size: 17px;
+    line-height: 30px;
+  }
+  .customCard__summary {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .ViewPricing {
+    font-size: 13px;
+  }
 
-    
+  .touch--btn {
+      margin-top: 25px;
+  }
+  .sendBtn {
+    padding: 6px 65px;
+    margin-top: 12px;
+  }
+
+  
+
 }

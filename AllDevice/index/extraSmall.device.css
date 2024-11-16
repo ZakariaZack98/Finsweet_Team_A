@@ -15,5 +15,101 @@
 }
 
 @media (max-width: 575.98px) {
-    
+  .custombannerLeft__title {
+    font-size: 26px;
+    line-height: 42px;
+  }
+  .custombannerLeft__summary {
+    font-size: 19px;
+    line-height: 33px;
+  }
+  .bannerBtn {
+    margin-left: 11px;
+    padding: 9px 30px;
+    font-size: 14px
+  }
+  .customworkLeft__summary {
+    font-size: 16px;
+    margin-left: 0;
+    margin-top: 14px;
+  }
+ 
+  .pointer__summary {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .project__title {
+    font-size: 36px;
+  }
+  .more--btn{
+    font-size: 16px;
+  }
+  .customoverlay:hover .customoverlayItem {
+    width: 100%;
+  }
+  .customoverlayItem__title {
+    font-size: 18px;
+  }
+  .customoverlayItem__summary {
+    font-size: 12px;
+  }
+  .custom--project {
+    margin-bottom: 84px;
+  }
+
+  .customRightOverlay__title {
+    margin-top: -53px;
+  }
+  .CustomServiceTop__tagline {
+    font-size: 33px;
+    line-height: 46px;
+  }
+  .customServiceItem__title {
+    font-size: 18px;
+  }
+  .customLeft__title {
+    font-size: 16px;
+  }
+  .customText__title {
+    font-size: 21px;
+  }
+  .number{
+    display: none;
+  }
+  .customheading {
+    font-size: 12px;
+  }
+  .mx-5 {
+    margin-left: 0rem !important;
+  }
+  .customOverlay {
+    padding-top: 179px;
+    padding-left: 50px;
+  }
+  .customOverlay__title {
+    font-size: 24px;
+    line-height: 45px;
+  }
+  .customOverlay__summary {
+    font-size: 12px;
+    line-height: 38px;
+  }
+  .customContactRight {
+    padding: 10px;
+  }
+  .customContactRight__title {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .customContactRight__summary {
+    font-size: 13px;
+    text-align: center;
+  }
+  .sendBtn {
+    padding: 13px 60px;
+  }
+  .inputBtn {
+    padding: 10px 0px 10px 0px;
+    padding-left: 10px;
+  }
 }
