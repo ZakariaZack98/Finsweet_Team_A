@@ -33,13 +33,7 @@
         line-height: 26px;
         text-align: center;
     }
-    .img-fluid {
-        max-width: 90%;
-    }
-    .bannerBtn{
-        margin-left: 170px;
-        padding: 10px 56px;
-    }
+    
     .customworkLeft__title {
         text-align: center;
         font-size: 36px;
@@ -49,7 +43,7 @@
     }
     .customworkLeft__summary {
         font-size: 20px;
-        margin-left: 20%;
+       text-align-last: center;
     }
     .custom--project{
         text-align: start;
@@ -98,16 +92,19 @@
         font-size: 19px;
         line-height: 32px;
     }
-    .inputBtn {
-        padding: 10px 120px 15px 10px;
-        padding-left: 50px;
-    }
+
     .loginBtn ::placeholder {
         font-size: 14px;
     }
+    .inputBtn {
+        padding: 13px 173px 18px 30px;
+    }
     .sendBtn {
         padding: 13px 137px;
-        margin-top: 12px;
+        margin-top: 30px;
+    }
+    .touch--btn{
+        margin-bottom: 30px;
     }
     .customCard__tagline {
         font-size: 15px;
@@ -139,6 +136,9 @@
     }
     .customOverlayRight:hover .customRightOverlay {
         width: 100%;
+    }
+    .cardItem__title {
+        font-size: 35px;
     }
 
 
