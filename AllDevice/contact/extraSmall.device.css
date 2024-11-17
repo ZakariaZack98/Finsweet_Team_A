@@ -15,5 +15,8 @@
 }
 
 @media (max-width: 575.98px) {
-    
+  .formPart {
+    margin-left: 0px;
+    margin-right: 0px;
+  } 
 }
