@@ -24,6 +24,8 @@
     }
     /* ==================Start working from here==================== */
 
-
+    .formPart {
+        padding: 40px 64px;
+    }
 
 }
