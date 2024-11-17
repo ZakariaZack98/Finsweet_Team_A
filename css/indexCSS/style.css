@@ -238,6 +238,9 @@ cursor: pointer;
   transition: all linear .5s;
  
 }
+.custom--project{
+  color: var(--clr_yellow);
+}
 .customoverlay:hover .customoverlayItem{
 opacity: 1;
 width: 50%;
