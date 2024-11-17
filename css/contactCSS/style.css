@@ -151,7 +151,6 @@ img {
   background-color: #282938;
   color: var(--clr_accent);
   border-radius: 41px;
-  margin-top: 32px;
   font-size: 18px;
 }
 .btn:hover{
@@ -163,7 +162,9 @@ img {
   border: none;
   border: 1px solid #acb2c4b8;
 }
-
+.--contactBtnMode {
+  margin-top: 32px;
+}
 
 /*----------------- form part css ------------------*/
 /* =================================!!! DONT MODIFY THE #FOOTER SECTION!!!========================================= */
