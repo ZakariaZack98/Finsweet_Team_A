@@ -100,7 +100,71 @@ img {
 }
 
 /* =======================================YOUR WORK STARTS FROM HERE========================================= */
+/*----------------- contact css ------------------*/
+#contactUs{
+  padding: 128px 0;
+}
+.contactPart{
+  text-align: center;
+}
+.contactPart__title{
+  font-size: 48px;
+  font-weight: 600;
+  font-family: var(--font_family);
+}
+.contactPart__summary{
+  font-size: 16px;
+  font-weight: 400;
+  font-family: var(--font_family);
+  margin-top: 16px;
+  margin-bottom: 64px;
+}
+/*----------------- contact css ------------------*/
 
+/*----------------- form part css ------------------*/
+.formPart{
+  background-color: #F4F6FC;
+  border-radius: 10px;
+  margin-left: 60px;
+  margin-right: 60px;
+  padding: 40px 0;
+}
+.formPart__input{
+  width: 100%;
+}
+.sms{
+  width: 100%;
+}
+.labelName{
+  margin-bottom: 10px;
+}
+.--modifire{
+  margin-top: 20px;
+}
+.inputSize{
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  border: 1px solid #acb2c4b8;
+}
+.btn{
+  background-color: #282938;
+  color: var(--clr_accent);
+  border-radius: 41px;
+  margin-top: 32px;
+  font-size: 18px;
+}
+.btn:hover{
+  background-color: #fcd980;
+}
+.--inputSize{
+  padding: 20px;
+  border-radius: 8px;
+  border: none;
+  border: 1px solid #acb2c4b8;
+}
+
+/*----------------- form part css ------------------*/
 /* =================================!!! DONT MODIFY THE #FOOTER SECTION!!!========================================= */
 /* ============footer section============== */
 #footer {
