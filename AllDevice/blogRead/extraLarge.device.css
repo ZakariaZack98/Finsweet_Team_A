@@ -15,10 +15,10 @@
 }
 
 @media (max-width: 1399.98px) {
-  .ReadBlogTitle-Title {
+  .ReadBlogTitle__Title {
     font-size: 36px;
   }
-  .ReadBlogSummary-title {
+  .ReadBlogSummary__title {
     font-size: 34px;
   }
 

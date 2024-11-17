@@ -31,13 +31,13 @@
         height: fit-content;
     }
     /* ==================Start working from here==================== */
-    .ReadBlogTitle-Title {
+    .ReadBlogTitle__Title {
         margin: 65px 0 16px;
     }
-    .ReadBlogTitle-summary {
+    .ReadBlogTitle__summary {
         font-size: 13px;
     }
-    .ReadBlogSummary-title {
+    .ReadBlogSummary__title {
         font-size: 24px;
     }
 

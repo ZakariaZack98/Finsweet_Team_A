@@ -23,10 +23,10 @@
       width: 120%;
   }
   /* ==================Start working from here==================== */
-  .ReadBlogTitle-Title {
+  .ReadBlogTitle__Title {
     font-size: 30px;
   }
-  .ReadBlogSummary-title {
+  .ReadBlogSummary__title {
     font-size: 30px;
   }
 

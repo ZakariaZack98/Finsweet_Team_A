@@ -101,19 +101,19 @@ img {
 
 /* =======================================YOUR WORK STARTS FROM HERE========================================= */
 /* =======================================Read Blog Title start========================================= */
-.ReadBlogTitle-Title{
+.ReadBlogTitle__Title{
   font-weight: 600;
   font-size: 48px;
   color: var(--clr_text_faded);
   margin: 128px 0 16px;
 }
-.ReadBlogTitle-summary{
+.ReadBlogTitle__summary{
   font-weight: 500;
   font-size: 16px;
   color: var(--clr_text_faded);
   margin-bottom: 48px;
 }
-.ReadBlogTitle-summary-date{
+.ReadBlogTitle__summary-date{
   opacity: .7;
 }
 /* =======================================Read Blog Title End========================================= */
@@ -121,13 +121,13 @@ img {
 #ReadBlogSummary{
   margin-bottom: 128px;
 }
-.ReadBlogSummary-title{
+.ReadBlogSummary__title{
   font-weight: 600;
   font-size: 38px;
   color: var(--clr_text_faded);
   margin: 48px 0 32px;
 }
-.ReadBlogSummary-summary{
+.ReadBlogSummary__summary{
   font-weight: 400;
   font-size: 16px;
   color: var(--clr_text_faded);
