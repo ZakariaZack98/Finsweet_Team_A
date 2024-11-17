@@ -38,9 +38,7 @@
 	font-size: 42px;
   line-height: 60px;
 }
-.sendBtn {
-	padding: 6px 98px;
-}
+
 .customCard__tagline {
 	font-size: 21px;
 	line-height: 33px;
@@ -53,10 +51,10 @@
     font-size: 19px;
     font-weight: 600;
 }
-
-.sendbtn {
-    padding: 16px 94px;
+.sendBtn {
+	padding: 16px 100px;
 }
+
 .inputBtn {
     padding: 18px 25px 18px 62px;
     

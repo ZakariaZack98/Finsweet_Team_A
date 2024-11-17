@@ -128,6 +128,7 @@ img {
   font-weight: 600;
   line-height: 32px;
   color: white;
+  margin-right: 20px;
 }
 .bannerBtn:hover{
   background: var(--clr_yellow);
@@ -141,9 +142,6 @@ img {
   font-weight: 500;
   line-height: 28px;
   transition: all ease-in .5s;
-}
-.ViewPricing:hover{
-  color: #FCD980;
 }
 [class="fa-regular fa-arrow-right fa-flip"]{
   vertical-align: middle;
@@ -167,7 +165,6 @@ img {
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
-  width: 405px;
   color: var(--clr_text_faded);
   margin-top: 16px;
   text-align: start;
@@ -180,11 +177,7 @@ img {
 .pointer{
   position: relative;
   padding: 20px 0px 10px 10px;
-  border-radius: 5px;
   cursor: pointer;
-}
-.pointer:hover{
-  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 }
 .pointer_title {
   font-size: 16px;
@@ -474,8 +467,9 @@ opacity: 1;
 }
 .customContactRight{
   height: 100%;
-  padding: 96px;
-  padding-bottom: 48px;
+  padding-left: 96px;
+  padding-top: 100px;
+  padding-right: 96px;
   background: var(--clr_tint_blue);
 }
 .customContactRight__title{
@@ -492,10 +486,10 @@ opacity: 1;
   color: var(--clr_accent);
   margin-bottom: 40px;
 }
-.loginBtn{
+/* .loginBtn{
   width: 432px;
   height: 224px;
-}
+} */
 .inputBtn {
 border: none;
 border: 1px solid #f4f6fc5d;
@@ -539,6 +533,12 @@ margin-top: 16px;
 #customcard{
   padding: 128px 0;
   background: white;
+}
+.cardItem__title{
+  font-size: 44px;
+  font-weight: 500;
+  line-height: 66px;
+  color: var(--clr_text_faded);
 }
 .customCard__title{
   font-size: 16px;
