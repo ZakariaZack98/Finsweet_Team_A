@@ -23,14 +23,19 @@
     font-size: 19px;
     line-height: 33px;
   }
-  .bannerBtn {
-    margin-left: 11px;
+  /* .bannerBtn {
+    margin-left: 17px !important;
     padding: 9px 30px;
-    font-size: 14px
+    font-size: 13px;
+  } */
+  .bannerBtn {
+    margin-left: 17px !important;
+    padding: 9px 30px;
+    font-size: 11px;
   }
   .customworkLeft__summary {
     font-size: 16px;
-    margin-left: 0;
+    margin-left: 0px !important;
     margin-top: 14px;
   }
  
@@ -47,8 +52,9 @@
   .customoverlay:hover .customoverlayItem {
     width: 100%;
   }
-  .customoverlayItem__title {
-    font-size: 18px;
+  .customOverlay__title {
+    font-size: 23px !important;
+    line-height: 45px;
   }
   .customoverlayItem__summary {
     font-size: 12px;
@@ -91,8 +97,8 @@
     line-height: 45px;
   }
   .customOverlay__summary {
-    font-size: 12px;
-    line-height: 38px;
+    font-size: 16px !important;
+    line-height: 30px !important;
   }
   .customContactRight {
     padding: 10px;

@@ -62,6 +62,9 @@
     font-size: 14px;
     line-height: 26px;
   }
+  .customOverlayRight:hover .customRightOverlay {
+    width: 100%;
+  }
   .customRightOverlay {
     padding-top: 120px;
   }
@@ -143,6 +146,7 @@
     padding: 6px 65px;
     margin-top: 12px;
   }
+ 
 
   
 
