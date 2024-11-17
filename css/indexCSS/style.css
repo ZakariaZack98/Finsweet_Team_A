@@ -137,7 +137,7 @@ img {
 .ViewPricing{
   border: none;
   background: transparent;
-  color: var(--clr_accent);
+  color: var(--clr_yellow);
   font-size: 16px;
   font-weight: 500;
   line-height: 28px;
@@ -467,9 +467,7 @@ opacity: 1;
 }
 .customContactRight{
   height: 100%;
-  padding-left: 96px;
-  padding-top: 100px;
-  padding-right: 96px;
+  padding: 96px 96px 48px 96px;
   background: var(--clr_tint_blue);
 }
 .customContactRight__title{
@@ -486,10 +484,6 @@ opacity: 1;
   color: var(--clr_accent);
   margin-bottom: 40px;
 }
-/* .loginBtn{
-  width: 432px;
-  height: 224px;
-} */
 .inputBtn {
 border: none;
 border: 1px solid #f4f6fc5d;
