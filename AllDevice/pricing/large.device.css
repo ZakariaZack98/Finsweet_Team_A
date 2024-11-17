@@ -19,6 +19,38 @@
         width: 120%;
     }
     /* ==================Start working from here==================== */
+   
+  .pricingTop__title {
+    font-size: 46px;
+  }
+  .pricingTop__summary {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  .pricing--btn {
+    padding: 16px 60px;
+    margin-left: -18px;
+  }
+  .pricingBottom {
+      width: 293px;
+  }
+  .pricingBottom__tagline {
+      font-size: 13px;
+  }
+  .pricingBottom__summary {
+      font-size: 11px;
+      line-height: 23px;
+  }
+  .pricingBottom__title {
+      font-size: 34px;
+  }
+  .customheading {
+      font-size: 16px;
+  }
+  .customSummary {
+      font-size: 12px;
+      line-height: 24px;
+  }
 
     
 }

@@ -15,5 +15,104 @@
 }
 
 @media (max-width: 575.98px) {
-    
+  .custombannerLeft__title {
+    font-size: 26px;
+    line-height: 42px;
+  }
+  .custombannerLeft__summary {
+    font-size: 16px;
+    line-height: 35px;
+  }
+ 
+  .bannerBtn {
+    margin-left: 17px !important;
+    padding: 9px 30px;
+    font-size: 11px;
+  }
+  
+  .pointer__summary {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .project__title {
+    font-size: 36px;
+  }
+  .more--btn{
+    font-size: 16px;
+  }
+  .customoverlay:hover .customoverlayItem {
+    width: 100%;
+  }
+  .customOverlay__title {
+    font-size: 23px !important;
+    line-height: 45px;
+  }
+  .customoverlayItem__summary {
+    font-size: 12px;
+  }
+  .custom--project {
+    margin-bottom: 84px;
+  }
+  .CustomServiceTop__tagline {
+    font-size: 33px;
+    line-height: 46px;
+  }
+  .customServiceItem__title {
+    font-size: 18px;
+  }
+  .customLeft__title {
+    font-size: 16px;
+  }
+  .customText__title {
+    font-size: 21px;
+  }
+  .number{
+    display: none;
+  }
+  .customheading {
+    font-size: 12px;
+  }
+  .mx-5 {
+    margin-left: 0rem !important;
+  }
+  .customOverlay {
+    padding-top: 179px;
+    padding-left: 50px;
+  }
+  .customOverlay__title {
+    font-size: 24px;
+    line-height: 45px;
+  }
+  .customContactRight__title {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .customContactRight__summary{
+    text-align: center;
+    font-size: 15px;
+  }
+  .customRightOverlay {
+    padding-top: 40px;
+  }
+  .inputBtn {
+    padding: 13px 0px 18px 30px;
+  }
+  .customContactRight{
+    padding: 10px;
+    margin: 0px;
+  }
+  .customworkLeft__summary {
+    font-size: 20px;
+  text-align: center;
+  }
+  .inputBtn {
+    padding: 11px 0px 18px 10px;
+  }
+  .sendBtn {
+    padding: 15px 75px;
+  }
+  .loginBtn{
+    text-align: center;
+  }
+
 }
