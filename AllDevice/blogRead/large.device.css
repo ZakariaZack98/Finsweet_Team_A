@@ -19,6 +19,16 @@
         width: 120%;
     }
     /* ==================Start working from here==================== */
+    .footerLeft {
+      width: 120%;
+  }
+  /* ==================Start working from here==================== */
+  .ReadBlogTitle__Title {
+    font-size: 30px;
+  }
+  .ReadBlogSummary__title {
+    font-size: 30px;
+  }
 
     
 }

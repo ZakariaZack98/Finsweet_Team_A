@@ -14,5 +14,20 @@
   --box_shd: 0 0 20px 20px rgba(0, 0, 0, 0.24);
 }
 @media (max-width: 767.98px) {
+  .ReadBlogTitle__Title {
+    font-size: 25px;
+  }
+  .ReadBlogTitle__summarys {
+    font-size: 11px;
+  }
+  .ReadBlogSummary__title {
+    font-size: 18px;
+  }
+  .ReadBlogSummary__summary {
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--clr_text_faded);
+    opacity: .7;
+  }
     
 }
