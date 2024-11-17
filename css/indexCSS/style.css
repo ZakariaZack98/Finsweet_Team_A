@@ -236,7 +236,7 @@ cursor: pointer;
   left:0px;
   opacity: 0;
   transition: all linear .5s;
- 
+
 }
 .custom--project{
   color: var(--clr_yellow);
@@ -251,7 +251,7 @@ width: 50%;
   font-weight: 600;
   line-height: 36px;
   color: var(--clr_accent);
- 
+
 }
 .customoverlayItem__summary{
   font-size: 16px;
@@ -343,7 +343,7 @@ opacity: 1;
   font-weight: 400;
   line-height: 28px;
   color: var(--clr_text_faded);
- 
+
 }
 
 /* ====service css============== */
@@ -392,7 +392,7 @@ opacity: 1;
   display: flex;
   flex-direction: row;
   align-items: center;
-  
+
 
 }
 /* ====clients css============== */
@@ -416,11 +416,11 @@ opacity: 1;
 }
 .accordion-button::after {
   background-image: url("https://cdn-icons-png.flaticon.com/128/10308/10308038.png");
-  
+
 }
 .accordion-button:not(.collapsed)::after {
   background-image: url("https://cdn-icons-png.flaticon.com/128/11519/11519974.png");
- 
+
 }
 .customheading{
   font-size: 24px;
@@ -433,7 +433,7 @@ opacity: 1;
   font-weight: 500;
   line-height: 32px;
   color:#282938;
-  
+
 }
 /* ====question css============== */
 /* ====contact css============== */
@@ -550,6 +550,9 @@ margin-top: 16px;
   line-height:36px;
   color: var(--clr_text_faded);
 }
+.customCard__tagline:hover {
+  color: blue;
+}
 .customCard__summary{
   font-size: 16px;
   font-weight: 400;
@@ -564,9 +567,7 @@ margin-top: 16px;
 }
 .customCardPart{
   border: none;
-}
-.customImg:hover{
-  width: 101%;
+  cursor: pointer;
 }
 /* ====card css============== */
 /* =================================!!! DONT MODIFY THE #FOOTER SECTION!!!========================================= */
