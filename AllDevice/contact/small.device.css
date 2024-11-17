@@ -14,5 +14,13 @@
   --box_shd: 0 0 20px 20px rgba(0, 0, 0, 0.24);
 }
 @media (max-width: 767.98px) {
-    
+  .formPart {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .--contactBtnMode{
+    width: 100%;
+    flex-grow: 1;
+    justify-self: center;
+  }
 }

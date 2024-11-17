@@ -18,5 +18,11 @@
   .formPart {
     margin-left: 0px;
     margin-right: 0px;
+    padding: 20px;
   } 
+  .--contactBtnMode{
+    width: 100%;
+    flex-grow: 1;
+    justify-self: center;
+  }
 }

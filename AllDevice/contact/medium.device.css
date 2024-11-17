@@ -27,5 +27,9 @@
     .formPart {
         padding: 40px 64px;
     }
-
+    .--contactBtnMode{
+        width: 100%;
+        flex-grow: 1;
+        justify-self: center;
+      }
 }
