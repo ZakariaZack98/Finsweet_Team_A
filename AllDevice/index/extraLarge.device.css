@@ -28,6 +28,12 @@
 	font-size: 13px;
 	line-height: 26px;
 }
+.pojectImg{
+  width: 100%;
+}
+.projectLeftImg{
+  width: 100%;
+}
 .customOverlay__title {
 	font-size: 42px;
   line-height: 60px;

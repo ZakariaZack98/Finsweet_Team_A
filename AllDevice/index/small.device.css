@@ -25,13 +25,14 @@
     margin-top: 30px;
   }
   .bannerBtn {
-    margin-left: 94px;
-    padding: 10px 55px;
+    margin-left: 120px !important;
+    padding: 9px 30px;
+    font-size: 14px;
   }
-  
   .customworkLeft__summary {
-    font-size: 19px;
-    margin-left: 13%;
+    font-size: 16px;
+    margin-left: 110px !important;
+    margin-top: 14px;
   }
   .project__title {
     font-size: 42px;
@@ -75,12 +76,15 @@
     font-size: 26px;
   }
   .customContactRight__summary {
-    font-size: 15px;
-    line-height: 30px;
+    font-size: 20px;
+  }
+  .touch--btn{
+    font-size: 16px;
+    display: block;
   }
   .inputBtn {
     padding: 10px 0px 15px 10px;
-    padding-left: 28px;
+    padding-left: 50px;
   }
   .sendBtn {
     padding: 13px 76px;
