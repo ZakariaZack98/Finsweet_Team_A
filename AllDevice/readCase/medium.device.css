@@ -25,46 +25,50 @@
     /* ==================Start working from here==================== */
 
 
+    .DesignCase__miniTitle {
+        font-size: 24px;
+      
+        text-align: center;
+    }
+
+    
+.DesignCase__Summary {
+        width: 100%;
+        font-size: 15px;
+        text-align: justify;
+    }
     
 
-.Webdev__Paragraph {
-        width: 722px;
-    }
-    
-.Webdev__MiniTitle {
-    
+.DesignCase__MainTitle {
+       
+        font-size: 43px;
         text-align: center;
-          padding-left: 0;
+        margin-left: 20px;
     }
     
     
-.Webdev__MainTitile {
-        
-    padding-left: 64px;
-    }
-    
-    
-.Webdev__Paragraph {
-        
-        text-align: center;
-    }
+
     
     
     /* About us : */
+
+#AboutProject {
+        padding: 96px 0px 0px 0px;
+      }
     
-    
-.AboutTheProject__title {
-        
+.AboutProject__title {
+        font-size: 32px;
         text-align: center;
     }
     
-    
-.AboutTheProject__pg {
-    
-        width: 698.9px;
-        
+
+
+.AboutProject__pg {
+        width: 100%;
+        line-height: 28px;
+        font-size: 15px;
+        text-align: justify;
     }
-    
 .AboutTheProject__list {
         
         padding-left: 2px;
@@ -80,13 +84,17 @@
     
     /*  service  link */ 
     
-.Servicepart__upanddownBoder {
+.ServicesPartBoder{
         
         flex-direction: row;
-        column-gap: 34px;
+        column-gap: 18px;
         flex-wrap: wrap;
+        column-gap: 18px;
+        margin-left: 20px;
+    }
+
+
+
     }
     
-    
-    
-}
+

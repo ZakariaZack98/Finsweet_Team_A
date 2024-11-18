@@ -20,84 +20,63 @@
 
 /* web design and development */
 
-.Webdev__MiniTitle {
-	font-size: 16px;
+.DesignCase__miniTitle {
+	font-size: 15px;
+}
+
+.DesignCase__MainTitle {
+	font-size: 21px;
 	
 }
 
-
-.Webdev__MainTitile {
-	padding-left: 20px;
-	font-size: 24px;
+.DesignCase__Summary {
+	
+	font-size: 14px;
 }
 
-.Webdev__Paragraph {
-	width: 100%;
-       font-size: 14px;
-       padding: 0px 5px 0px 5px;
-}
 
 
 /* picture modify */
 
-.Webdev__coverPic {
-	padding-left: 1px;
-	padding-top: 24px;
+.DesignCase__Pic {
+	padding-top: 23px;
 }
 
 
 
 /* social link */
 
-
-
-.WDD__sociallinkHoalder {
+.SocialLinkHoalder {
 	display: flex;
-	flex-direction: none;
-        justify-content:none;
-	position: relative;
-	padding: 60px 0px 24px 0px;
-	text-align: center;
 	flex-direction: column;
-	row-gap: 35px;
+	position: relative;
+	text-align: center;
+	row-gap: 38px;
+	padding-left: 0px;
 }
+
+
 
 /* about the project */
 
-.AboutTheProject__title {
-	font-size: 24px;
+.AboutProject__title {
+	font-size: 21px;
+}
+
+
+
+
+
+.listmargin {
 	
-}
-
-.AboutTheProject__pg {
-	width: 100%;
-}
-
-.Aboutimagepadding {
-	margin-left: 219px;
-	padding-top: 24px;
-	padding-bottom: 24px;
-}
-
-.Aboutimagepadding {
-	margin-left: 0px;
-	padding-top: 24px;
-	padding-bottom: 24px;
+	margin-right: 36px;
 }
 
 /* service link */
 
 
 
-.Servicepart__upanddownBoder {
-	display: flex;
-	flex-direction: column;
-	column-gap: none;
-	padding: 11px 0px;
-	position: relative;
-	row-gap: 19px;
-	text-align: center;
-}
+
 
 .services_Link {
 	font-size: 20px;
@@ -110,28 +89,19 @@
 }
 
 
-.Servicepart__upanddownBoder::before {
-	
-	height: 0%;
-	
-}
-.Servicepart__upanddownBoder::after {
-	
-	height: 0%;
-	
-}
-
 /* Lests build somthing */
 
-.BuildSomthingGreat__title {
-	font-size: 24px;
-      line-height: 36px;
+.Together__title {
+	font-size: 21px;
+	font-weight: 600;
+	line-height: 33px;
+	color: var(--clr_text_faded);
+	text-align: center;
+	padding-top: 30px;
 }
 
-
-
+}
 
 
   
     
-}

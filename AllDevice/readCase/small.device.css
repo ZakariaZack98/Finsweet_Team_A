@@ -20,29 +20,117 @@
 
 /* web design */
 
+#DesignCase {
+	padding-top: 40px;
 
-
-.Webdev__MainTitile {
-	padding-left: 23px;
-        font-size: 33px;
 }
 
-.Webdev__Paragraph {
-	width: 535px;
+
+.DesignCase__miniTitle {
+	font-size: 19px;
+	
+}
+
+
+.DesignCase__MainTitle {
+	font-size: 25px;
+	text-align: center;
+	width: 100%;
+	height: 60px;
+	line-height: 48px;
+	margin-left: 0px;
+}
+
+
+.DesignCase__Summary{
+  width: 100%;
+  text-align: justify;
+  font-size: 15px;
+}
+
+
+
+/* soical links */
+
+.Social__links {
+  font-size: 15px;
+}
+.SocialLinkHoalder {
+	
+	
+	
+	padding-left: 14px;
+	
+}
+
+.ServicesPartBoder {
+	flex-direction: column;
+	column-gap: 0px;
+	flex-wrap: wrap;
+	row-gap: 15px;
+	display: flex;
+	text-align: center;
+	margin-left: 0px;
+  padding: 13px 0px;
+}
+
+
+.ServicesPartBoder::before {
+	position: absolute;
+	content: "";
+	width: 0;
+	height: 0;
+	left: 0;
+	bottom: none;
+	
+}
+
+.ServicesPartBoder::after {
+	position: absolute; 
+	content: "";
+	width: 0;
+	height: 0;
+	left: 0;
+	bottom: 0;
+	background: none;
 }
 
 
 /*   about the project */
 
+#AboutProject {
+	padding: 33px 0px 0px 0px;
+}
+
+.AboutProject__title {
+	font-size: 25px;
+
+}
+
 .AboutTheProject__pg {
-	width: 519.9px;
+	width: 100%;
+}
+
+.AboutProject__list {
+	font-size: 14px;
+	
 }
 
 .services_Link {
 	font-size: 17px;
 }
 
+/* lets build somthing */
 
+.Together__title {
+	font-size: 25px;
+}
+
+.Together__Pg {
+	font-size: 15px;
+  padding-bottom: 15px;
+	text-align: center;
+}
 
 
     

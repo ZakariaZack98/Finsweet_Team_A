@@ -32,15 +32,15 @@ font-size: 38px;
 }
 
 
-.Webdev__Paragraph {
+.DesignCase__Summary {
 
-	width: 790px;
+	width: 100%;
 
 }
 
 /* solial link */
 
-.WDD__socialLinks {
+.Social__links {
 
 	font-size: 16px;
 }
@@ -55,10 +55,10 @@ font-size: 38px;
 
 /* service link befor */ 
 
-.services_Link {
-	font-size: 14px;
-	
-}
+
+
+
+
 
 .services_Link:hover{
 
@@ -67,34 +67,36 @@ font-size: 38px;
 
 }
 
+.ServicesPartBoder {
+  column-gap: 37px;
+}
 
 
-.Servicepart__upanddownBoder::before {
+
+.ServicesPartBoder::before{
 	
 	width: 93%;
 	
-	
 }
 
-.Servicepart__upanddownBoder::after{
+.ServicesPartBoder::after{
 
   width: 93%;
-
 
 }
 
 /* build somthing great together */
 
 
-#BuildSomthingGreat {
+#Together {
 
 	padding: 14px 0px 48px 0px;
 }
 
-.BuildSomthingGreat__title {
+.Together__title {
 	font-size: 34px;
 	
 }
 
-    
-}
+  
+
