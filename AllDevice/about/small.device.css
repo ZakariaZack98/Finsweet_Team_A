@@ -16,3 +16,26 @@
 @media (max-width: 767.98px) {
     
 }
+
+/*  ========== who we are ============ */
+.whoWeAreLeft__tag {
+  padding-left: 22px;
+}
+.whoWeAreRight__title {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 37px;
+  margin-bottom: 3px;
+}
+.whoWeAreLeft__title {
+  margin-bottom: 3px;
+  font-size: 15px;
+  line-height: 38px;
+  font-weight: 600;
+}
+.whoWeAreLeft__details {
+  font-size: 10px;
+  line-height: 18px;
+}
+
+/*  ========== who we are ============ */

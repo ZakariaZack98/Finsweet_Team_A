@@ -27,3 +27,167 @@
 
 
 }
+
+/*============  Our design   ========== */
+.ourDesign__tag {
+    font-size: 17px;
+    line-height: 7px;
+    margin-bottom: 14px;
+}
+.ourDesign__title {
+    font-size: 39px;
+    line-height: 55px;
+    line-height: 45px;
+    margin-bottom: 12px;
+}
+.ourDesign__details {
+    max-width: 484px;
+    font-size: 13px;
+    line-height: 22px;
+}
+/*============  Our design   ========== */
+
+/* ============= Who we are  ========= */
+.whoWeAreLeft__tag {
+    padding-left: 32px;
+}
+.whoWeAreLeft__title {
+    margin-bottom: 3px;
+    font-size: 21px;
+    line-height: 59px;
+}
+.whoWeAreLeft__details {
+    font-size: 13px;
+    line-height: 21px;
+}
+.whoWeAreRight__title {
+    font-size: 21px;
+    line-height: 59px;
+    margin-bottom: 3px;
+}
+.whoWeAreRight__details {
+    font-size: 13px;
+    line-height: 21px;
+}
+
+
+/* ============= Who we are ========= */
+
+/* ============= We follow ========= */
+
+.weFollowTop__Title {
+    font-size: 46px;
+}
+.weFollow__circle::after {
+    width: 15dvw;
+}
+.weFollow__title {
+    margin-top: -4px;
+    font-size: 22px;
+}
+.weFollow__details {
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 23px;
+}
+
+/* ============= We follow  ========= */
+
+/* ============= our mission  ========= */
+.ourMission__tag {
+    line-height: 26px;
+}
+.ourMission__title {
+    font-size: 23px;
+    line-height: 23px;
+}
+.ourMission__details {
+    font-size: 10px;
+    line-height: 16px;
+}
+
+/* ============= our mission  ========= */
+
+
+/* ============= our vision  ========= */
+.ourVision__tag {
+    line-height: 10px;
+}
+.ourVision__title {
+    font-size: 25px;
+    line-height: 35px;
+    margin: 2px 0;
+}
+.ourVision__details {
+    font-size: 10px;
+    line-height: 17px;
+}
+
+/* ============= our vision ========= */
+
+/* ============= benefits ========= */
+
+.benefitsTop__title {
+    font-size: 36px;
+}
+.benefitsMiddle__icon{
+    font-size: 23px;
+}
+.benefitsMiddle__title {
+    font-size: 12px;
+    line-height: 16px;
+    margin: 12px 0 12px;
+}
+.benefitsMiddle {
+    padding: 33px 28px 26px 37px;
+}
+.benefitsMiddle__details {
+    font-size: 10px;
+    line-height: 16px;
+}
+.benefitsBottom {
+    margin-top: 55px;
+}
+.benefitsBottom__count {
+    font-size: 24px;
+    line-height: 12px;
+}
+.benefitsBottom__tag {
+    font-size: 12px;
+    line-height: 23px;
+}   
+.benefitsBottom__logo {
+    width: 104px;
+    height: 25px;
+}
+/* ============= benefits ========= */
+
+/* ============= our team ========= */
+
+#ourTeam {
+    background-color: #F4F6FC;
+    padding: 109px 0;
+}
+.ourTeamBottom__img{
+    width: 100px;
+}
+.ourTeamBottom {
+    width: 163px;
+    height: 224px;
+    padding: 27px 27px 27px 27px;
+}
+.ourTeamBottom:hover{
+    box-shadow: 2px 6px 5px rgba(0, 0, 0, 0.62);
+    font-size: 25px;
+}
+.ourTeamBottom__name {
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 2px; 
+  
+}
+.ourTeamBottom__designation {
+    font-size: 11px;
+    line-height: 27px;
+}
+/* ============= our team ========= */

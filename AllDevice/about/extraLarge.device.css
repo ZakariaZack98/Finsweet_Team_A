@@ -17,3 +17,42 @@
 @media (max-width: 1399.98px) {
 
 }
+
+/* ================= about us =================*/
+
+/*============ who we are ==========*/
+
+.whoWeAreRight__title {
+  font-size: 34px;
+  }
+  
+.whoWeAreLeft__title {
+    font-size: 34px;
+}
+.whoWeAreLeft__tag {
+  padding-left: 52px;
+}
+/*============ who we are ==========*/
+
+/*============= we follow ==============*/
+
+.weFollowTop__Title {
+  margin-bottom: 79px;
+}
+/*============= we follow ==============*/
+
+
+/*============ benefits of working ==========*/
+.benefitsTop__title {
+  font-size: 46px;
+}
+/*============ benefits of working ==========*/
+
+/*============ meet our team ==========*/
+
+.ourTeamTop__title {
+  font-size: 46px;
+}
+/*============ meet our team ==========*/
+
+/* ================= about us =================*/

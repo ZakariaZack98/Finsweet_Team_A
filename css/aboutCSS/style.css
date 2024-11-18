@@ -129,6 +129,8 @@ img {
   font-size: 16px;
   font-weight: 400; 
   line-height: 28px;
+  opacity: .7;
+
 }
 /* =================== our design end =================== */
 
@@ -163,6 +165,7 @@ img {
   font-size: 16px;
   font-weight: 400; 
   line-height: 28px;
+  opacity: .7;
  
 }
 
@@ -178,6 +181,7 @@ img {
   font-size: 16px;
   font-weight: 400; 
   line-height: 28px;
+  opacity: .7;
 
 }
 /* =================== who we are =================== */
@@ -192,13 +196,28 @@ img {
   line-height: 64px;
 
 }
-.weFollow__circle{
-  font-size: 20px;
-  margin-right: 24px;
+.weFollow__circle {
+  height: 24px;
+  width: 24px;
+  background-color: var(--clr_royal_blue);
+  border-radius: 50%;
+  top: -30px;
+  left: -10px;
+  position: relative;
+}
+.weFollow__circle::after {
+  content: "";
+  position: absolute;
+  width: 12dvw;
+  background-color: transparent;
+  height: 2px;
+  border: 1px dashed var(--clr_royal_blue);
+  left: 40px;
+  top: 12px;
 }
 
 .weFollow__title{
-  margin-top: 28px;
+  margin-top: 10px;
   color: #282938;
   font-size: 24px;
   font-weight: 500; 
@@ -277,6 +296,7 @@ img {
 #benefits{
   background-color: #FFFFFF;
   margin: 128px 0;
+ 
 }
 .benefitsTop__title{
   max-width: 630px;
@@ -288,7 +308,17 @@ img {
 .benefitsMiddle{
   background-color: #F4F6FC;
   margin-top: 48px;
+  border: 1px solid #2405f2;
+  transition: var(--trn_delay);
   padding: 48px 32px 48px 48px;
+}
+.benefitsMiddle:hover{
+  box-shadow: 2px 6px 5px rgba(0, 0, 0, 0.62);
+}
+
+.benefitsMiddle__icon{
+  font-size: 32px;
+  color: #2405f2;
 }
 .benefitsMiddle__title{
   color: #282938;
@@ -327,9 +357,12 @@ img {
   height: 32px;
  
 }
+/* ============ benefits of working  end ============ */
+
+/* ============ our taem start ============ */
 #ourTeam{
   background-color: #F4F6FC;
-  padding: 128px 0 48px 0;
+  padding: 128px 0;
 }
 .ourTeamBottom{
   width: 296px;
@@ -363,7 +396,8 @@ img {
   opacity: .7;
   text-align: center;
 }
-/* ============ benefits of working  end ============ */
+
+/* ============ our taem  end ============ */
 
 
 
@@ -415,3 +449,10 @@ img {
 .footerCopyright {
   color: var(--clr_tint_blue);
 }
+
+
+
+
+
+
+
