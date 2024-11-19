@@ -16,4 +16,46 @@
 
 @media (max-width: 1399.98px) {
 
+
+
+  
+  
+ /* social medialink */
+  
+ .Social__links {
+	font-size: 19px;
+	
+}
+  
+  
+  /* about the project */
+  
+  
+  
+  
+  
+.AboutProject__pg {
+    width: 809.9px;
+    
+    line-height: 28px;
+  }
+  
+.Aboutimagepadding {
+    margin-left: 190px;
+    
+  }
+  
+  
+  
+ /* service link */
+  
+ .ServicesPartBoder{
+    
+    column-gap: 45px;
+    
+  }
+  
+
+
+
 }

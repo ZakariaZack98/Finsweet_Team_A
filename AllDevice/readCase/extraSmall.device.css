@@ -15,5 +15,93 @@
 }
 
 @media (max-width: 575.98px) {
-    
+
+
+
+/* web design and development */
+
+.DesignCase__miniTitle {
+	font-size: 15px;
 }
+
+.DesignCase__MainTitle {
+	font-size: 21px;
+	
+}
+
+.DesignCase__Summary {
+	
+	font-size: 14px;
+}
+
+
+
+/* picture modify */
+
+.DesignCase__Pic {
+	padding-top: 23px;
+}
+
+
+
+/* social link */
+
+.SocialLinkHoalder {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	text-align: center;
+	row-gap: 38px;
+	padding-left: 0px;
+}
+
+
+
+/* about the project */
+
+.AboutProject__title {
+	font-size: 21px;
+}
+
+
+
+
+
+.listmargin {
+	
+	margin-right: 36px;
+}
+
+/* service link */
+
+
+
+
+
+.services_Link {
+	font-size: 20px;
+}
+
+.services_Link:hover{
+  font-size: 21px;
+ 
+
+}
+
+
+/* Lests build somthing */
+
+.Together__title {
+	font-size: 21px;
+	font-weight: 600;
+	line-height: 33px;
+	color: var(--clr_text_faded);
+	text-align: center;
+	padding-top: 30px;
+}
+
+}
+
+
+  
+    

@@ -20,5 +20,97 @@
     }
     /* ==================Start working from here==================== */
 
-    
+
+/* Finsweet Design case studies */
+
+
+.Webdev__MainTitile {
+
+font-size: 38px;
+ padding-bottom: 16px;
+ height:80px
+}
+
+
+.DesignCase__Summary {
+
+	width: 100%;
+
+}
+
+/* solial link */
+
+.Social__links {
+
+	font-size: 16px;
+}
+
+
+/* about us */
+#AboutProject {
+	padding: 96px 0px 0px;
+}
+
+
+/* image section */ 
+
+.Aboutimagepadding {
+	margin-left: 150px;
+}
+
+
+/* service link befor */ 
+
+
+
+
+
+
+.services_Link:hover{
+
+  font-size: 16px;
+ 
+
+}
+
+
+
+.ServicesPartBoder {
+	display: flex;
+	flex-direction: row;
+	column-gap: 0px;
+	padding: 96px 0px;
+	position: relative;
+	justify-content: space-between;
+}
+
+
+
+
+.ServicesPartBoder::before{
+	
+	width: 100%;
+	
+}
+
+.ServicesPartBoder::after{
+
+  width: 100%;
+
+}
+
+/* build somthing great together */
+
+
+#Together {
+
+	padding: 14px 0px 48px 0px;
+}
+
+.Together__title {
+	font-size: 34px;
+	
+}
+
+  
 }
