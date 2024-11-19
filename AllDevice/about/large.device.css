@@ -21,9 +21,7 @@
     /* ==================Start working from here==================== */
 
 
-}
-
-/* ============= Our design ==========   */
+    /* ============= Our design ==========   */
 .ourDesign__tag {
   font-size: 17px;
   line-height: 7px;
@@ -50,7 +48,7 @@
   line-height: 27px;
 }
 .whoWeAreLeft__tag {
-  padding-left: 42px;
+  padding-left: 56px;
 }
 .whoWeAreLeft__title {
   font-size: 28px;
@@ -69,37 +67,22 @@
   margin-bottom: 79px;
 }
 .weFollow__circle::after {
-  /* content: "";
-  position: absolute; */
   width: 17dvw;
-  /* background-color: transparent;
-  height: 2px;
-  border: 1px dashed var(--clr_royal_blue);
-  left: 40px;
-  top: 12px; */
 }
 .weFollow__details {
-  /* margin-top: 8px;
-  max-width: 272px; */
   font-size: 15px;
-  /* font-weight: 400;
-  line-height: 28px;
-  opacity: .7; */
 }
-
 /* =========== We follow  ============ */
 
 /* ============= our mission =========== */
 
 .ourMission__title {
   font-size: 32px;
-  /* font-weight: 600; */
   line-height: 34px;
   margin: 11px 0;
 }
 .ourMission__details {
   font-size: 15px;
-  /* font-weight: 400; */
   line-height: 22px;
 
 }
@@ -117,11 +100,9 @@
 .ourVision__details {
 
   font-size: 15px;
-  /* font-weight: 400; */
   line-height: 23px;
 }
 .ourVision__tag {
-  /* font-size: 16px; */
   line-height: 19px;
 }
 /* ============= our vision =========== */
@@ -133,14 +114,11 @@
 .benefitsMiddle__title {
 
   font-size: 19px;
-  /* font-weight: 500; */
   line-height: 33px;
-  /* margin: 26px 0 12px; */
 }
 .benefitsMiddle__details {
   max-width: 324px;
   font-size: 14px;
-  /* font-weight: 400; */
   line-height: 22px;
 
 }
@@ -149,9 +127,7 @@
   height: 29px;
 }
 .benefitsBottom__count {
-
   font-size: 31px;
-
   line-height: 16px;
 }
 
@@ -164,3 +140,7 @@
   font-size: 45px;
 }
 /* ========= meet our team ============ */
+
+
+}
+

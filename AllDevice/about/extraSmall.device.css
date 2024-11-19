@@ -15,5 +15,42 @@
 }
 
 @media (max-width: 575.98px) {
-    
+
+  /* ===== who we wre ====== */
+  .whoWeAreLeft__tag {
+    padding-left: 1px;
+}
+
+/* ===== who we wre ====== */
+
+/* ===== our vision ====== */
+
+.ourVision__tag {
+  margin-top: 23px;
+}
+
+/* ===== our vision ====== */
+
+/* ===== benefits of working ====== */
+  .benefitsTop__title {
+    font-size: 27px;
+    line-height: 45px;
+    text-align: center;
+}
+/* ===== benefits of working ====== */
+
+/* ===== our team ====== */
+
+.ourTeamTop__title {
+  font-size: 43px;
+}
+.ourTeamBottom{
+  text-align: center;
+}
+
+.ourTeamBottom__name {
+  font-size: 22px;
+}
+
+/* ===== our team ====== */
 }
