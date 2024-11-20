@@ -19,6 +19,27 @@
         width: 120%;
     }
     /* ==================Start working from here==================== */
-
+    .heading--1 {
+      font-size: 40px;
+    }
+    .summary--1 {
+      font-size: 14px;
+    }
+    .privacyBootom {
+      margin-top: 54px;
+      row-gap: 2px;
+  
+    }
+    .privacyBootom__heading {
+      font-size: 22px;
+    }
+    .privacyBootom__summary {
+      font-size: 13px;
+    }
+    .privacyBootom__heading2 {
+      font-size: 25px;
+      line-height: 44px;
+      font-weight: 600;
+    }
     
 }

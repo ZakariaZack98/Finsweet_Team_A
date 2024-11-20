@@ -23,7 +23,12 @@
         height: fit-content;
     }
     /* ==================Start working from here==================== */
-
-
+    #Privacypart {
+        padding: 90px 0;
+    }
+    .privacyBootom {
+        margin-top: 45px;
+        row-gap: 4px;
+    }
 
 }
