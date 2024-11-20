@@ -100,6 +100,33 @@ img {
 }
 
 /* =======================================YOUR WORK STARTS FROM HERE========================================= */
+/*--------------------------------------- privacyPolicy css --------------- */
+#privacyPolicy{
+  padding: 128px 0;
+}
+.headingLine{
+  font-size: 48px;
+  font-weight: 600;
+  font-family: var(--fnt_primary);
+
+}
+.headingLine__summary{
+  font-size: 16px;
+  font-weight: 500;
+  font-family: var(--fnt_primary);
+  opacity: 70%;
+  margin-top: 25px;
+}
+
+/*--------------------------------------- privacyPolicy css --------------- */
+/* =======================================commment========================== */
+
+.headingLine__title{
+font-size: 38px;
+font-weight: 600;
+font-family: var(--fnt_primary);
+margin-top: 32px;
+}
 
 /* =================================!!! DONT MODIFY THE #FOOTER SECTION!!!========================================= */
 /* ============footer section============== */
