@@ -15,5 +15,30 @@
 }
 
 @media (max-width: 575.98px) {
-    
+  #Privacypart {
+    padding: 60px 0;
+  }
+  .heading--1 {
+    font-size: 30px;
+    line-height: 42px;
+  }
+  .summary--1 {
+    font-size: 11px;
+    line-height: 20px;
+  }
+  .privacyBootom__heading {
+    font-size: 19px;
+  }
+  .privacyBootom__summary {
+    font-size: 11px;
+  }
+  .privacyBootom__heading2 {
+    font-size: 21px;
+    line-height: 32px;
+    font-weight: 600;
+  }
+  .privacyBootom__list{
+    font-size: 11px;
+    text-align: start;
+  }
 }

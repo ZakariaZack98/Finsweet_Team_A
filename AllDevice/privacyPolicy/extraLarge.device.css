@@ -15,5 +15,11 @@
 }
 
 @media (max-width: 1399.98px) {
+  .privacyBootom__heading {
+    font-size: 32px;
+}
+.privacyBootom__heading2 {
+	font-size: 35px;
+}
 
 }
